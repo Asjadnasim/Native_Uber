@@ -62,3 +62,5 @@
 and many more, including code architecture and reusability
 
 clear the cache in expo npx expo start -c
+
+for carousel npm install react-native-swiper
